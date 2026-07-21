@@ -1,4 +1,4 @@
-# superstore Sales Analysis powerbi
+# superstore Sales analysis powerbi
 An end-to-end sales performance analysis project using Excel, Power Query and Power BI.
 ## Project Overview
 
